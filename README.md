@@ -1,40 +1,63 @@
-# 👋 Hi, I'm Wayne (李述文)
+# Wayne 李述文
 
-> **跳出规则 | 敢想敢做 | 承担责任**
-> 17岁 | 浙江宁波 | 高中生 | 正在探索 AI 时代下的个体成长与教育创新。
+**17岁 | 浙江宁波 | 高中在读**
 
----
-
-### 💡 关于我 / Profile
-我以**学习力**与**执行力**为核心驱动，拒绝被动接受教育，正在通过跨境电商与创投实习实践“新个人成长路径”。
-
-- 🔭 **当前聚焦：** 跨境电商商业闭环、AI 重塑学习路径。
-- 🌱 **核心特质：** 涉猎广、逻辑强、善于将抽象理念转化为具象成果。
-- 📧 **联系方式：** [murphy19523010548@outlook.com](mailto:murphy19523010548@outlook.com)
-- 💬 **WeChat：** MillionaireMurphy
+* 📧 **EMail:** [murphy19523010548@outlook.com](mailto:murphy19523010548@outlook.com)
+* 📱 **PhoneNumber:** 19523010548
+* 💭 **WeChat:** MillionaireMurphy
+* ✨ **KeyWord:** 跳出规则 · 敢想敢做 · 承担责任
 
 ---
 
-### 🚀 团队统筹与领导力 / Leadership
-- **校运会总导演 & 合唱总指挥：** 负责百人级项目统筹。
-- **交响乐团首席：** 具备舞台表现力与极强的团队协作经验。
-- **第八届中学生哲学大会：** 论文入选，深耕 AI 社会学与未来学逻辑思辨。
+### 💡 个人简介
+正在探索AI时代下个体成长与教育创新的可能性  
+学习力与执行力为驱动  
+正在做跨境电商/创投公司实习  
+现阶段的目标是实践新的个人成长路径
 
 ---
 
-### 🧩 实践与商业实战 / Projects
-* **跨境电商 MVP 跑通：** 涵盖选品、供应链及内容营销，四位数 GMV。
-* **IP 运营实战：** 两个月内实现总曝光 18w+，转化 100+。
-* **服装产品设计：** 独立完成从设计到样品落地，具备极强的产品审美与转化力。
+### 🚀 团队与活动经历
+
+#### 校运会开幕式总导演 & 合唱总指挥
+* 负责百人级项目统筹与舞台执行，协调班级与学校多方资源。
+* **Link:** MillionaireMurphy WeChat视频号 (“校运会”篇、“合唱比赛”篇)
+
+#### 宁波市学生艺术团交响乐团 首席
+* 舞台表现力与团队组织经验
+
+#### 第八届中学生哲学大会 论文集入选
+* 探索AI 社会学 未来学，锻炼了逻辑思辨与表达力。
 
 ---
 
-### 🛠 技术栈与工具 / Tools
-![Hugo](https://img.shields.io/badge/Static_Site-Hugo-orange?style=flat-square) 
-![Git](https://img.shields.io/badge/Version_Control-Git-blue?style=flat-square)
-![AI](https://img.shields.io/badge/Focus-AI_Education-red?style=flat-square)
+### 🧩 探索与实践经历
+
+#### 自媒体与品牌实战
+* 尝试Vlog创作、自主品牌设计与海外社媒运营，积累完整的内容生产与商业化经验
+* **Link:** MillionaireMurphy WeChat视频号
+
+#### 小红书电商运营MVP
+* 跑通选品、供应链、内容营销与成交全链路，四位数GMV
+* **Link:** 11624249881 小红书号（已闲置）
+
+#### 服装产品落地设计
+* 独立完成从设计到样品制作，具备产品转化与视觉审美能力
+* **Link:** MillionaireMurphy WeChat视频号 (“校运会”篇)
+
+#### 董科含北美活动及ip运营（两个月）
+* 总转化 100+，2 篇 2w+ 曝光笔记，总曝光 18w+
+* **Link:** 9498283856 小红书号
 
 ---
 
-### 📈 GitHub Stats
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent)
+### 📈 当前聚焦方向
+1.  **跨境电商：** 构建个人商业出海策略与运营闭环
+2.  **AI × 个人成长：** 探索AI如何重塑个体学习路径与教育体系，实践我认同的教育路径
+
+---
+
+### 🌟 个人特质
+* 涉猎广、学习快、逻辑清晰、执行力强
+* 善于将抽象理念转化为具象成果
+* 对新兴领域保持持续好奇与思考vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent)
